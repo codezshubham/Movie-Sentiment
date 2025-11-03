@@ -59,7 +59,7 @@ A deep learning-based sentiment analysis application that classifies IMDB movie 
 - **Dataset**: IMDB Movie Reviews (50,000 reviews)
 - **Input**: Sequences of up to 500 words
 - **Output**: Binary classification (Positive/Negative)
-- **Activation**: ReLU activation function
+- **Activation**: ReLU activation in hidden layers, sigmoid in output layer
 
 ### Text Processing
 - Reviews are converted to lowercase
@@ -113,7 +113,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available for educational and personal use.
 
 ## 👤 Author
 
